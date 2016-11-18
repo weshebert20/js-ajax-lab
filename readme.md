@@ -12,7 +12,9 @@ competencies: Front-end intro
 
 ## Introduction
 
-> ***Note:*** _This can be a pair programming activity or done independently._
+<!--Differentiate by fist-to-five -->
+
+> ***Note:*** _This will be a pair programming activity._
 
 You're about to write a lot of AJAX-backed JavaScript – using jQuery – that will complete our little Cat Rescue app.
 
