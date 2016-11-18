@@ -32,6 +32,8 @@ Make use of the fantastic and altruistic https://ga-cat-rescue.herokuapp.com/api
 
 You'll find the same starter code you had in the last lesson in the `starter-code` folder. It's a basic index and some styling, along with an empty `js/jquery.app.js`.
 
+> Note: If you are having trouble getting started, look back at your work on the [jQuery MadLib Lab](https://github.com/den-wdi-2/css-html-forms-lab).
+
 #### Deliverable
 
 1. Make a list of existing cats appear underneath the form.
