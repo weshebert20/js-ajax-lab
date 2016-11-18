@@ -30,7 +30,7 @@ Make use of the fantastic and altruistic https://ga-cat-rescue.herokuapp.com/api
 
 #### Starter Code
 
-You'll find the same starter code you had in the last lesson in the `starter-code` folder. It's a basic index and some styling, along with an empty `js/app.js`.
+You'll find the same starter code you had in the last lesson in the `starter-code` folder. It's a basic index and some styling, along with an empty `js/jquery.app.js`.
 
 #### Deliverable
 
@@ -38,7 +38,7 @@ You'll find the same starter code you had in the last lesson in the `starter-cod
 2. Make the form work (i.e. it will add a cat, and you can verify the cat was added by refreshing).
 3. Build your app to add to the list of cats - using the information from newly created cats - without refreshing the page.
 
-<img width="752" src="https://cloud.githubusercontent.com/assets/25366/9149279/bc93cd02-3d57-11e5-9f03-1e19d0097fd2.png">
+<img width="752" src="assets/catRescueList.png">
 
 ## Additional Resources
 
