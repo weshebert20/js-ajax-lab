@@ -26,8 +26,7 @@ Make use of the fantastic and altruistic https://ga-cat-rescue.herokuapp.com/api
 
 - Implement a jQuery AJAX client for a simple REST service
 - Build an application that uses AJAX to update a client
-- Update an existing API resource from your client with new data
-- Destroy an existing API resource from your client
+- Use form submission and AJAX to interact with an API on the web.
 
 #### Starter Code
 
