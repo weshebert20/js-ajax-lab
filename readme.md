@@ -38,7 +38,7 @@ You'll find the same starter code you had in the last lesson in the `starter-cod
 
 1. Make a list of existing cats appear underneath the form.
 2. Make the form work (i.e. it will add a cat, and you can verify the cat was added by refreshing).
-3. Build your app to add to the list of cats - using the information from newly created cats - without refreshing the page.
+3. Get your app to add to the list of cats without refreshing the page, using the information from the newly created cat.
 
 <img width="752" src="assets/catRescueList.png">
 
